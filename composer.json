@@ -1,0 +1,30 @@
+{
+    "name": "resham/nova-dependent-filter",
+    "description": "A dependent filter for laravel nova",
+    "keywords": ["laravel", "dependent", "filter"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Resham Pokhrel",
+            "email": "reshampokhrel57@gmail.com",
+            "homepage": "https://reshampokhrel.com.np"
+        }
+    ],
+    "require": {
+        "php": ">=7.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Resham\\NovaDependentFilter\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Resham\\NovaDependentFilter\\ServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
