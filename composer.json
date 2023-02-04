@@ -1,7 +1,7 @@
 {
     "name": "resham/nova-dependent-filter",
     "description": "A dependent filter for laravel nova",
-    "keywords": ["laravel", "dependent", "filter"],
+    "keywords": ["laravel", "nova", "dependent", "filter"],
     "license": "MIT",
     "authors": [
         {
