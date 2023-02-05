@@ -1,4 +1,4 @@
-## Dependent Filter for Laravel Nova 4
+# Dependent Filter for Laravel Nova 4
 
 <a href="https://packagist.org/packages/resham/nova-dependent-filter"><img src="https://img.shields.io/packagist/v/resham/nova-dependent-filter.svg?style=flat" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/resham/nova-dependent-filter"><img src="https://img.shields.io/packagist/l/resham/nova-dependent-filter.svg?style=flat" alt="License"></a>
