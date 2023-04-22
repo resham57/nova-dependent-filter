@@ -2,6 +2,7 @@
 
 <a href="https://packagist.org/packages/resham/nova-dependent-filter"><img src="https://img.shields.io/packagist/v/resham/nova-dependent-filter.svg?style=flat" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/resham/nova-dependent-filter"><img src="https://img.shields.io/packagist/l/resham/nova-dependent-filter.svg?style=flat" alt="License"></a>
+<a href="https://packagist.org/packages/resham/nova-dependent-filter"><img src="https://img.shields.io/packagist/dt/resham/nova-dependent-filter" alt="Total Downloads"></a>
 
 This is a package to integrate a dependent filter with Laravel Nova version 4.
 
